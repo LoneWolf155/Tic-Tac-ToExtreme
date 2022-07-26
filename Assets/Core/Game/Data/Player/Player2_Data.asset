@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed1fe8d4ee35d6841865675e0b01dc4e, type: 3}
+  m_Name: Player2_Data
+  m_EditorClassIdentifier: 
+  _symbol: {fileID: 11400000, guid: b32f56be26787a649886ee3fded861fb, type: 2}
+  _score: {fileID: 11400000, guid: 16695cf3ff332ae4d81f85b8ff3af02f, type: 2}
+  _color: {fileID: 11400000, guid: 4df5e6800bdc98f4f89a7e53795f4948, type: 2}
+  _triggeredGameEvents:
+    onPlayerPowerupChanged: {fileID: 11400000, guid: 16508ddb514c88442a8ee9e72041033c, type: 2}
+  _playerNumber: 2

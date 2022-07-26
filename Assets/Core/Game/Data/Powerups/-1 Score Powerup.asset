@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bdeef0590c182d44a66b8f8c4f49ce7, type: 3}
+  m_Name: -1 Score Powerup
+  m_EditorClassIdentifier: 
+  _gameData: {fileID: 11400000, guid: b03b70eee7e2e0a4f87250390532e4f2, type: 2}
+  _targetPlayer: 1
+  _targetData: 0
+  _scoreAdjust: -1
+  _targetColor: {r: 1, g: 1, b: 1, a: 1}
+  _targetSymbol: 

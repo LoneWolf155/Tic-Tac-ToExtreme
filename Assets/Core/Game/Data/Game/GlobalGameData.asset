@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a05ac638e997a25418245cfe9183ad0d, type: 3}
+  m_Name: GlobalGameData
+  m_EditorClassIdentifier: 
+  _playersData:
+  - {fileID: 11400000, guid: 31fac7083e6cc5f4789d5e76c2f45e9f, type: 2}
+  - {fileID: 11400000, guid: 04611e90756fc7c4799c080576319c1a, type: 2}
+  _powerups:
+  - {fileID: 11400000, guid: 2a7d5a8835713a3408a7ffb1d03513ab, type: 2}
+  - {fileID: 11400000, guid: ad155bee398fd2340a8a2f43e91cc65a, type: 2}
+  - {fileID: 11400000, guid: 403662639c1025946975be920237058b, type: 2}
+  _triggeredEvents:
+    onPlayerTurnStart: {fileID: 11400000, guid: 8659794b5a6755148a23af094c9043a7, type: 2}
+    onPlayerTurnEnd: {fileID: 11400000, guid: cae56131b94987b4288a61d764eaac15, type: 2}
